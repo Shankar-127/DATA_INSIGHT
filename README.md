@@ -239,7 +239,7 @@ git --version
 Clone a repository (replace the example URL with the actual repository URL):
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Shankar-127/DATA_INSIGHT.git
 cd REPOSITORY
 ```
 
